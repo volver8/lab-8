@@ -1,0 +1,6 @@
+/home/kirill2000/lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kirill2000/lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kirill2000/lab8/cmake-build-debug/CMakeFiles/tests.dir
+/home/kirill2000/lab8/cmake-build-debug/CMakeFiles/localTest.dir
+/home/kirill2000/lab8/cmake-build-debug/CMakeFiles/template.dir
+/home/kirill2000/lab8/cmake-build-debug/CMakeFiles/test.dir

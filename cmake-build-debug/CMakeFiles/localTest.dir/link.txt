@@ -1,0 +1,1 @@
+/usr/bin/g++   -pedantic -Werror -Wall -Wextra -Wno-unused-command-line-argument -Wshadow -Wnon-virtual-dtor -g   CMakeFiles/localTest.dir/sources/source.cpp.o  -o localTest  -lpthread /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install/lib/libboost_system-mt-d-x64.a 

@@ -1,0 +1,14 @@
+/home/kirill2000/clion-2020.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/kirill2000/lab8
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/kirill2000/.hunter
+-- [hunter] [ Hunter-ID: 9a3594a | Toolchain-ID: 9b2c9d4 | Config-ID: 48401e9 ]
+-- [hunter] GTEST_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 1.8.0-hunter-p11)
+-- [hunter] BOOST_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 1.70.0-p0)
+-- [hunter] BOOST_ROOT: /home/kirill2000/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 1.70.0-p0)
+-- Boost version: 1.70.0
+-- Found the following Boost libraries:
+--   system
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kirill2000/lab8/cmake-build-debug
